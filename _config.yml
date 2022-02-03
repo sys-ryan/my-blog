@@ -27,6 +27,19 @@ url: "https://sys-ryan.github.io" # the base hostname & protocol for your site, 
 twitter_username:
 github_username: sys-ryan
 
+# Fields minima uses, but are not defaulted with the jekyll-new command.
+# Author is the default for posts, the Atom feed, and is used in the footer
+author: Ryan SJ Kim
+linkedin_username: Ryan SJ Kim
+youtube_username: Ryan SJ Kim
+
+# New fields not defaulted by jekyll-new with the minima theme.
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+copyright: "Ryan Seong-Jin Kim"
+
+title-logo: /images/title-logo.png
+
 # Build settings
 # Removed minima theme as it is now a regular theme.
 # theme: minima
